@@ -50,13 +50,6 @@
 
 ---
 
-### 🐶 [Dogecoin Price Prediction](https://github.com/chennamsettyvardhan/Dogecoin-Price-Prediction)
-> A machine learning project to predict Dogecoin prices using Python.
-- Data analysis and visualization
-- ML model for price forecasting
-
----
-
 ### 💸 [SMART-EXPENSES-TRACKER](https://github.com/chennamsettyvardhan/SMART-EXPENSES-TRACKER)
 > A web app to record daily expenses and manage personal finances.
 - Categories: Food, Travel, and more
