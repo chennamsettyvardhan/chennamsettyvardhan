@@ -1,6 +1,6 @@
 # Hi, I'm Vardhan 👋
 
-### Web Developer · B.Tech 3rd Year · Kalasalingam University
+### Web Developer · B.Tech 4rd Year · Kalasalingam University
 
 ---
 
